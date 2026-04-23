@@ -1,0 +1,3 @@
+match_key,match_date_utc,home_team,away_team,market_name,market_probability,market_odds_est,model_probability,edge,expected_value,lambda_home,lambda_away
+Levante vs Sevilla,2026-04-23T17:00:00Z,Levante,Sevilla,AWAY_DNB,0.4444444444444444,2.25,0.5829247335283292,0.1384802890838847,0.3115806504387406,1.114,1.371
+Levante vs Sevilla,2026-04-23T17:00:00Z,Levante,Sevilla,X2,0.610011641443539,1.6393129770992363,0.6948107190814536,0.0847990776379146,0.1390122284178789,1.114,1.371

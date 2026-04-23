@@ -1,0 +1,295 @@
+sport_key,commence_time,home_team,away_team,bookmaker,market_type,selection_name,decimal_odds
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,MyBookie.ag,H2H,Bournemouth,1.02
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,MyBookie.ag,H2H,Leeds United,450.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,MyBookie.ag,H2H,Draw,9.5
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Betfair,H2H,Bournemouth,1.03
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Betfair,H2H,Leeds United,1000.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Betfair,H2H,Draw,26.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,888sport,H2H,Bournemouth,1.06
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,888sport,H2H,Leeds United,91.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,888sport,H2H,Draw,9.5
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Winamax (FR),H2H,Bournemouth,60.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Winamax (FR),H2H,Leeds United,80.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Winamax (FR),H2H,Draw,1.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Winamax (DE),H2H,Bournemouth,60.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Winamax (DE),H2H,Leeds United,80.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Winamax (DE),H2H,Draw,1.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Betclic (FR),H2H,Bournemouth,1.01
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Betclic (FR),H2H,Leeds United,100.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Betclic (FR),H2H,Draw,35.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Pinnacle,H2H,Bournemouth,3.56
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Pinnacle,H2H,Leeds United,7.39
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Pinnacle,H2H,Draw,1.56
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,LeoVegas (SE),H2H,Bournemouth,1.03
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,LeoVegas (SE),H2H,Leeds United,111.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,LeoVegas (SE),H2H,Draw,12.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Nordic Bet,H2H,Bournemouth,1.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Nordic Bet,H2H,Leeds United,126.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Nordic Bet,H2H,Draw,17.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Betsson,H2H,Bournemouth,1.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Betsson,H2H,Leeds United,126.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Betsson,H2H,Draw,17.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Coolbet,H2H,Bournemouth,1.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Coolbet,H2H,Leeds United,200.0
+soccer_epl,2026-04-22T19:00:00Z,Bournemouth,Leeds United,Coolbet,H2H,Draw,28.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,MyBookie.ag,H2H,Burnley,50.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,MyBookie.ag,H2H,Manchester City,1.02
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,MyBookie.ag,H2H,Draw,9.25
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,888sport,H2H,Burnley,151.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,888sport,H2H,Manchester City,1.01
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,888sport,H2H,Draw,29.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Betfair,H2H,Burnley,1000.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Betfair,H2H,Manchester City,1.04
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Betfair,H2H,Draw,23.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Winamax (FR),H2H,Burnley,1000.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Winamax (FR),H2H,Manchester City,1.01
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Winamax (FR),H2H,Draw,25.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Winamax (DE),H2H,Burnley,1000.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Winamax (DE),H2H,Manchester City,1.01
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Winamax (DE),H2H,Draw,26.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Betclic (FR),H2H,Burnley,100.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Betclic (FR),H2H,Manchester City,1.01
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Betclic (FR),H2H,Draw,35.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,LeoVegas (SE),H2H,Burnley,131.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,LeoVegas (SE),H2H,Manchester City,1.01
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,LeoVegas (SE),H2H,Draw,15.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Nordic Bet,H2H,Burnley,61.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Nordic Bet,H2H,Manchester City,1.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Nordic Bet,H2H,Draw,21.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Betsson,H2H,Burnley,61.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Betsson,H2H,Manchester City,1.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Betsson,H2H,Draw,21.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Coolbet,H2H,Burnley,250.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Coolbet,H2H,Manchester City,1.0
+soccer_epl,2026-04-22T19:00:00Z,Burnley,Manchester City,Coolbet,H2H,Draw,28.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Pinnacle,H2H,Barcelona,1.19
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Pinnacle,H2H,Celta Vigo,21.85
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Pinnacle,H2H,Draw,6.12
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Nordic Bet,H2H,Barcelona,1.14
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Nordic Bet,H2H,Celta Vigo,19.5
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Nordic Bet,H2H,Draw,6.3
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Betsson,H2H,Barcelona,1.14
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Betsson,H2H,Celta Vigo,19.5
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Betsson,H2H,Draw,6.3
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Winamax (DE),H2H,Barcelona,1.15
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Winamax (DE),H2H,Celta Vigo,20.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Winamax (DE),H2H,Draw,6.5
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Winamax (FR),H2H,Barcelona,1.16
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Winamax (FR),H2H,Celta Vigo,19.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Winamax (FR),H2H,Draw,6.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Tipico,H2H,Barcelona,1.12
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Tipico,H2H,Celta Vigo,20.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Tipico,H2H,Draw,7.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Betclic (FR),H2H,Barcelona,1.17
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Betclic (FR),H2H,Celta Vigo,17.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Betclic (FR),H2H,Draw,6.25
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Betfair,H2H,Barcelona,1.21
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Betfair,H2H,Celta Vigo,25.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Betfair,H2H,Draw,7.2
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Unibet (SE),H2H,Barcelona,1.16
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Unibet (SE),H2H,Celta Vigo,19.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Unibet (SE),H2H,Draw,6.75
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,PMU (FR),H2H,Barcelona,1.13
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,PMU (FR),H2H,Celta Vigo,18.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,PMU (FR),H2H,Draw,6.4
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Unibet (NL),H2H,Barcelona,1.16
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Unibet (NL),H2H,Celta Vigo,19.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Unibet (NL),H2H,Draw,6.75
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,LeoVegas (SE),H2H,Barcelona,1.15
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,LeoVegas (SE),H2H,Celta Vigo,18.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,LeoVegas (SE),H2H,Draw,6.5
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Coolbet,H2H,Barcelona,1.16
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Coolbet,H2H,Celta Vigo,25.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Coolbet,H2H,Draw,7.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Matchbook,H2H,Barcelona,1.21
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Matchbook,H2H,Celta Vigo,26.0
+soccer_spain_la_liga,2026-04-22T19:33:00Z,Barcelona,Celta Vigo,Matchbook,H2H,Draw,7.2
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Unibet (FR),H2H,Levante,2.4
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Unibet (FR),H2H,Sevilla,2.95
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Unibet (FR),H2H,Draw,3.2
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Pinnacle,H2H,Levante,2.48
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Pinnacle,H2H,Sevilla,3.11
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Pinnacle,H2H,Draw,3.24
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,1xBet,H2H,Levante,2.54
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,1xBet,H2H,Sevilla,3.17
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,1xBet,H2H,Draw,3.25
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Codere (IT),H2H,Levante,2.47
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Codere (IT),H2H,Sevilla,2.95
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Codere (IT),H2H,Draw,3.25
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,William Hill,H2H,Levante,2.4
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,William Hill,H2H,Sevilla,2.9
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,William Hill,H2H,Draw,3.2
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Winamax (DE),H2H,Levante,2.4
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Winamax (DE),H2H,Sevilla,2.95
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Winamax (DE),H2H,Draw,3.3
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Winamax (FR),H2H,Levante,2.35
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Winamax (FR),H2H,Sevilla,2.9
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Winamax (FR),H2H,Draw,3.25
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Tipico,H2H,Levante,2.35
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Tipico,H2H,Sevilla,3.1
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Tipico,H2H,Draw,3.2
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Marathon Bet,H2H,Levante,2.5
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Marathon Bet,H2H,Sevilla,3.12
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Marathon Bet,H2H,Draw,3.2
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Betclic (FR),H2H,Levante,2.42
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Betclic (FR),H2H,Sevilla,2.97
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Betclic (FR),H2H,Draw,3.23
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Betfair,H2H,Levante,2.56
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Betfair,H2H,Sevilla,3.2
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Betfair,H2H,Draw,3.3
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Nordic Bet,H2H,Levante,2.48
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Nordic Bet,H2H,Sevilla,2.98
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Nordic Bet,H2H,Draw,3.2
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Betsson,H2H,Levante,2.48
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Betsson,H2H,Sevilla,2.98
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Betsson,H2H,Draw,3.2
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Unibet (SE),H2H,Levante,2.55
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Unibet (SE),H2H,Sevilla,2.95
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Unibet (SE),H2H,Draw,3.35
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,PMU (FR),H2H,Levante,2.45
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,PMU (FR),H2H,Sevilla,2.8
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,PMU (FR),H2H,Draw,3.2
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Unibet (NL),H2H,Levante,2.55
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Unibet (NL),H2H,Sevilla,2.95
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Unibet (NL),H2H,Draw,3.35
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,LeoVegas (SE),H2H,Levante,2.48
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,LeoVegas (SE),H2H,Sevilla,2.85
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,LeoVegas (SE),H2H,Draw,3.25
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,BetOnline.ag,H2H,Levante,2.56
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,BetOnline.ag,H2H,Sevilla,3.03
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,BetOnline.ag,H2H,Draw,3.18
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Coolbet,H2H,Levante,2.5
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Coolbet,H2H,Sevilla,3.15
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Coolbet,H2H,Draw,3.2
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Matchbook,H2H,Levante,2.56
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Matchbook,H2H,Sevilla,3.2
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Matchbook,H2H,Draw,3.3
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Everygame,H2H,Levante,2.4
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Everygame,H2H,Sevilla,3.0
+soccer_spain_la_liga,2026-04-23T17:00:00Z,Levante,Sevilla,Everygame,H2H,Draw,3.05
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Pinnacle,H2H,Espanyol,3.99
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Pinnacle,H2H,Rayo Vallecano,2.11
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Pinnacle,H2H,Draw,3.24
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Unibet (FR),H2H,Espanyol,3.7
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Unibet (FR),H2H,Rayo Vallecano,2.05
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Unibet (FR),H2H,Draw,3.2
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,1xBet,H2H,Espanyol,4.04
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,1xBet,H2H,Rayo Vallecano,2.16
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,1xBet,H2H,Draw,3.27
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Codere (IT),H2H,Espanyol,3.7
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Codere (IT),H2H,Rayo Vallecano,2.12
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Codere (IT),H2H,Draw,3.25
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,William Hill,H2H,Espanyol,3.7
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,William Hill,H2H,Rayo Vallecano,2.1
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,William Hill,H2H,Draw,3.0
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Winamax (DE),H2H,Espanyol,3.75
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Winamax (DE),H2H,Rayo Vallecano,2.05
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Winamax (DE),H2H,Draw,3.3
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Winamax (FR),H2H,Espanyol,3.65
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Winamax (FR),H2H,Rayo Vallecano,2.0
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Winamax (FR),H2H,Draw,3.25
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Tipico,H2H,Espanyol,3.9
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Tipico,H2H,Rayo Vallecano,2.0
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Tipico,H2H,Draw,3.3
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Marathon Bet,H2H,Espanyol,3.98
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Marathon Bet,H2H,Rayo Vallecano,2.13
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Marathon Bet,H2H,Draw,3.22
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Betclic (FR),H2H,Espanyol,3.7
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Betclic (FR),H2H,Rayo Vallecano,2.08
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Betclic (FR),H2H,Draw,3.25
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Betfair,H2H,Espanyol,4.1
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Betfair,H2H,Rayo Vallecano,2.18
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Betfair,H2H,Draw,3.35
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Betsson,H2H,Espanyol,3.7
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Betsson,H2H,Rayo Vallecano,2.12
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Betsson,H2H,Draw,3.25
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Nordic Bet,H2H,Espanyol,3.7
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Nordic Bet,H2H,Rayo Vallecano,2.12
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Nordic Bet,H2H,Draw,3.25
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Unibet (SE),H2H,Espanyol,3.75
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Unibet (SE),H2H,Rayo Vallecano,2.16
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Unibet (SE),H2H,Draw,3.3
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,PMU (FR),H2H,Espanyol,3.6
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,PMU (FR),H2H,Rayo Vallecano,2.07
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,PMU (FR),H2H,Draw,3.2
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Unibet (NL),H2H,Espanyol,3.75
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Unibet (NL),H2H,Rayo Vallecano,2.15
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Unibet (NL),H2H,Draw,3.35
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,LeoVegas (SE),H2H,Espanyol,3.65
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,LeoVegas (SE),H2H,Rayo Vallecano,2.1
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,LeoVegas (SE),H2H,Draw,3.2
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,BetOnline.ag,H2H,Espanyol,3.92
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,BetOnline.ag,H2H,Rayo Vallecano,2.12
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,BetOnline.ag,H2H,Draw,3.25
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Coolbet,H2H,Espanyol,4.1
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Coolbet,H2H,Rayo Vallecano,2.1
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Coolbet,H2H,Draw,3.22
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Matchbook,H2H,Espanyol,4.1
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Matchbook,H2H,Rayo Vallecano,2.18
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Matchbook,H2H,Draw,3.3
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Everygame,H2H,Espanyol,3.85
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Everygame,H2H,Rayo Vallecano,2.05
+soccer_spain_la_liga,2026-04-23T18:00:00Z,Rayo Vallecano,Espanyol,Everygame,H2H,Draw,3.1
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Unibet (FR),H2H,Oviedo,3.6
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Unibet (FR),H2H,Villarreal,2.05
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Unibet (FR),H2H,Draw,3.4
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Pinnacle,H2H,Oviedo,3.67
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Pinnacle,H2H,Villarreal,2.15
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Pinnacle,H2H,Draw,3.38
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,1xBet,H2H,Oviedo,3.78
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,1xBet,H2H,Villarreal,2.18
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,1xBet,H2H,Draw,3.41
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Codere (IT),H2H,Oviedo,3.55
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Codere (IT),H2H,Villarreal,2.11
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Codere (IT),H2H,Draw,3.4
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,William Hill,H2H,Oviedo,3.4
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,William Hill,H2H,Villarreal,2.05
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,William Hill,H2H,Draw,3.4
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Winamax (DE),H2H,Oviedo,3.5
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Winamax (DE),H2H,Villarreal,2.05
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Winamax (DE),H2H,Draw,3.45
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Winamax (FR),H2H,Oviedo,3.45
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Winamax (FR),H2H,Villarreal,2.05
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Winamax (FR),H2H,Draw,3.35
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Tipico,H2H,Oviedo,3.6
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Tipico,H2H,Villarreal,2.05
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Tipico,H2H,Draw,3.4
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Marathon Bet,H2H,Oviedo,3.72
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Marathon Bet,H2H,Villarreal,2.15
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Marathon Bet,H2H,Draw,3.36
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Betclic (FR),H2H,Oviedo,3.53
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Betclic (FR),H2H,Villarreal,2.07
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Betclic (FR),H2H,Draw,3.4
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Betfair,H2H,Oviedo,3.7
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Betfair,H2H,Villarreal,2.22
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Betfair,H2H,Draw,3.45
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Betsson,H2H,Oviedo,3.55
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Betsson,H2H,Villarreal,2.08
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Betsson,H2H,Draw,3.45
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Nordic Bet,H2H,Oviedo,3.55
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Nordic Bet,H2H,Villarreal,2.08
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Nordic Bet,H2H,Draw,3.45
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Unibet (SE),H2H,Oviedo,3.8
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Unibet (SE),H2H,Villarreal,2.1
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Unibet (SE),H2H,Draw,3.45
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,PMU (FR),H2H,Oviedo,3.6
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,PMU (FR),H2H,Villarreal,2.02
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,PMU (FR),H2H,Draw,3.3
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Unibet (NL),H2H,Oviedo,3.8
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Unibet (NL),H2H,Villarreal,2.1
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Unibet (NL),H2H,Draw,3.45
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,LeoVegas (SE),H2H,Oviedo,3.65
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,LeoVegas (SE),H2H,Villarreal,2.04
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,LeoVegas (SE),H2H,Draw,3.3
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,BetOnline.ag,H2H,Oviedo,3.72
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,BetOnline.ag,H2H,Villarreal,2.1
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,BetOnline.ag,H2H,Draw,3.45
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Coolbet,H2H,Oviedo,3.7
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Coolbet,H2H,Villarreal,2.15
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Coolbet,H2H,Draw,3.4
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Matchbook,H2H,Oviedo,3.7
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Matchbook,H2H,Villarreal,2.22
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Matchbook,H2H,Draw,3.45
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Everygame,H2H,Oviedo,3.45
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Everygame,H2H,Villarreal,2.05
+soccer_spain_la_liga,2026-04-23T19:30:00Z,Oviedo,Villarreal,Everygame,H2H,Draw,3.2

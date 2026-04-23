@@ -1,0 +1,10 @@
+match_key,selection_name,decimal_odds,home_team_fixture,away_team_fixture,match_date_utc,implied_prob,norm_prob
+Levante vs Sevilla,Draw,3.35,Levante,Sevilla,2026-04-23T17:00:00Z,0.29850746268656714,0.2980209545983702
+Levante vs Sevilla,Levante,2.56,Levante,Sevilla,2026-04-23T17:00:00Z,0.390625,0.389988358556461
+Levante vs Sevilla,Sevilla,3.2,Levante,Sevilla,2026-04-23T17:00:00Z,0.3125,0.3119906868451688
+Oviedo vs Villarreal,Draw,3.45,Oviedo,Villarreal,2026-04-23T19:30:00Z,0.2898550724637681,0.2888546481766821
+Oviedo vs Villarreal,Oviedo,3.8,Oviedo,Villarreal,2026-04-23T19:30:00Z,0.2631578947368421,0.26224961479198766
+Oviedo vs Villarreal,Villarreal,2.22,Oviedo,Villarreal,2026-04-23T19:30:00Z,0.4504504504504504,0.44889573703133023
+Rayo Vallecano vs Espanyol,Draw,3.35,Rayo Vallecano,Espanyol,2026-04-23T18:00:00Z,0.29850746268656714,0.29817187082999735
+Rayo Vallecano vs Espanyol,Espanyol,4.1,Rayo Vallecano,Espanyol,2026-04-23T18:00:00Z,0.24390243902439027,0.24362823592207103
+Rayo Vallecano vs Espanyol,Rayo Vallecano,2.18,Rayo Vallecano,Espanyol,2026-04-23T18:00:00Z,0.4587155963302752,0.4581998932479317

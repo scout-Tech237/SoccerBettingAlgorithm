@@ -1,1 +1,5 @@
-print("Python is working")
+print("Soccer Betting Algorithm Project")
+print("Run the individual modules first:")
+print("1. python src/create_database.py")
+print("2. python src/insert_sample_data.py")
+print("3. python src/evaluate_match.py")

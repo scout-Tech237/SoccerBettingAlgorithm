@@ -1,0 +1,21 @@
+match_date,home_team,away_team,market_type,selection_name,decimal_odds
+2026-04-20,Arsenal,Brighton,DOUBLE_CHANCE,1X,1.30
+2026-04-20,Arsenal,Brighton,DRAW_NO_BET,HOME_DNB,1.45
+2026-04-20,Arsenal,Brighton,UNDER_4_5,UNDER_4_5,1.22
+2026-04-20,Real Sociedad,Getafe,DOUBLE_CHANCE,1X,1.40
+2026-04-20,Real Sociedad,Getafe,DRAW_NO_BET,HOME_DNB,1.55
+2026-04-20,Real Sociedad,Getafe,UNDER_4_5,UNDER_4_5,1.20
+
+2026-04-21,Arsenal,Brighton,DOUBLE_CHANCE,1X,1.28
+2026-04-21,Arsenal,Brighton,DRAW_NO_BET,HOME_DNB,1.43
+2026-04-21,Arsenal,Brighton,UNDER_4_5,UNDER_4_5,1.25
+2026-04-21,Real Sociedad,Getafe,DOUBLE_CHANCE,1X,1.38
+2026-04-21,Real Sociedad,Getafe,DRAW_NO_BET,HOME_DNB,1.53
+2026-04-21,Real Sociedad,Getafe,UNDER_4_5,UNDER_4_5,1.22
+
+2026-04-22,Arsenal,Brighton,DOUBLE_CHANCE,1X,1.30
+2026-04-22,Arsenal,Brighton,DRAW_NO_BET,HOME_DNB,1.45
+2026-04-22,Arsenal,Brighton,UNDER_4_5,UNDER_4_5,1.22
+2026-04-22,Real Sociedad,Getafe,DOUBLE_CHANCE,1X,1.40
+2026-04-22,Real Sociedad,Getafe,DRAW_NO_BET,HOME_DNB,1.55
+2026-04-22,Real Sociedad,Getafe,UNDER_4_5,UNDER_4_5,1.20

@@ -1,0 +1,4 @@
+date,decision,staking_mode,stake,leg1_match,leg1_selection,leg2_match,leg2_selection,combined_odds,combo_ev,average_confidence,result,profit,bankroll_after_bet,peak_bankroll,drawdown
+2026-04-20,BET,kelly,3.0,Arsenal vs Brighton,HOME_DNB,Real Sociedad vs Getafe,1X,2.03,0.344,97.0,WIN,3.09,103.09,103.09,0.0
+2026-04-21,BET,kelly,3.0927,Arsenal vs Brighton,HOME_DNB,Real Sociedad vs Getafe,1X,1.9734,0.3065,97.0,LOSS,-3.0927,100.0,103.09,3.09
+2026-04-22,BET,kelly,2.9999,Arsenal vs Brighton,HOME_DNB,Real Sociedad vs Getafe,1X,2.03,0.344,97.0,WIN,3.0899,103.09,103.09,0.0

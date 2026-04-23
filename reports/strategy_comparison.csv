@@ -1,0 +1,4 @@
+strategy,starting_bankroll,ending_bankroll,total_betting_days,winning_days,losing_days,no_bet_days,total_staked,total_returned,net_profit,roi_percent,max_drawdown
+fixed_1pct,100.0,101.05,3,2,1,0,3.01,4.06,1.05,34.87,1.01
+fixed_0_5pct,100.0,100.53,3,2,1,0,1.5,2.03,0.53,35.1,0.5
+kelly_half_capped,100.0,103.09,3,2,1,0,9.09,12.18,3.09,33.95,3.09
